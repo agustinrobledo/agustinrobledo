@@ -37,5 +37,5 @@ Esta es mi experiencia de trabajo mas reciente:
 
 [**Henry**](https://www.instagram.com/codigofontetv/) \
  Full Stack Teacher Assistant\
-Actividades a realizar: `Coordinar grupos de estudiantes`, `Guiar estudiantes en sus primeros pasos en la programación` y `Ayudar a resolver ejercicios y promover lacolaboración grupal (Pair Programming).`\
+Actividades a realizar: `Coordinar grupos de estudiantes`, `Guiar estudiantes en sus primeros pasos en la programación` y `Ayudar a resolver ejercicios y promover la colaboración grupal (Pair Programming).`\
 <br/>
