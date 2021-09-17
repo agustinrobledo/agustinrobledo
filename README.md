@@ -5,10 +5,12 @@
 <p align="left"> 
   🌎 Mi nombre es Fernando Agustin Robledo soy <strong>Full Stack Developer</strong>.
 </p>
-
+<p align="left">
+  Actualmente me encuentro en busca de mi primer empleo como Programador.
+  <br>
 <p align="left">
  ♟ Habilidades: <strong>HTML, CSS, JavaScript, Typescript, Sass, Less, Tailwind CSS, ReactJS, React Native, Next.js, Redux, AJAX, Jquery, Webpack, Node.js, Express.js,
-  Sequelize y PostgreSQL</strong>
+  Sequelize y PostgreSQL.</strong>
 </p>
 
 <p align="left">
