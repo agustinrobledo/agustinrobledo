@@ -30,12 +30,3 @@
   <strong>agustinrobledo59.ar@gmail.com</strong>
 </p>
 
-### Experiencia de trabajo:
-Esta es mi experiencia de trabajo mas reciente:
-
-[<img align="left" height="100px" width="100px" alt="Henry" src="henry.png"/>](https://www.soyhenry.com)
-
-[**Henry**](https://www.instagram.com/codigofontetv/) \
- Full Stack Teacher Assistant\
-Actividades a realizar: `Coordinar grupos de estudiantes`, `Guiar estudiantes en sus primeros pasos en la programación` y `Ayudar a resolver ejercicios y promover la colaboración grupal (Pair Programming).`\
-<br/>
