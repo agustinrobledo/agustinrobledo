@@ -5,8 +5,6 @@
 <p align="left"> 
   🌎 Mi nombre es Fernando Agustin Robledo soy <strong>Full Stack Developer</strong>.
 </p>
-<p align="left">
-  Actualmente me encuentro en busca de mi primer empleo como Programador.
   <br><br>
   Les dejo aca mi <a href="https://agustinrobledo.vercel.app"><strong>Portfolio</strong></a>
 <p align="left">
