@@ -5,12 +5,14 @@
 <p align="left"> 
   👋 My name is Fernando Agustin Robledo, I'm <strong>Full Stack Developer</strong>.
 </p>
-  <br><br>
+  <br>
  This is my <a href="https://agustinrobledo.com"><strong>Portfolio</strong></a>
 <p align="left">
  ♟ Skills: <strong>HTML, CSS, JavaScript, Typescript, Sass, Less, TailwindCSS, ReactJS, React Native, Next.js, Redux, Vue.js, Nest.js, Node.js, Express.js,
   Sequelize and PostgreSQL.</strong>
 </p>
+
+<p>I'm currently learning THREE.js with GSAP</p>
 
 <p align="left">
  🔧 Tools: <strong>VSCode, Figma, AdobeXD, Trello, Vercel, Git y GitHub.</strong>
