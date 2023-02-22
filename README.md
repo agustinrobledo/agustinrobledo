@@ -7,6 +7,7 @@
 </p>
  This is my <a href="https://agustinrobledo.com"><strong>Portfolio</strong></a>
 <p align="left">
+  <br></br>
  ♟ Skills: <strong>HTML, CSS, JavaScript, Typescript, Sass, Less, TailwindCSS, ReactJS, React Native, Next.js, Redux, Vue.js, Nest.js, Node.js, Express.js,
   Sequelize and PostgreSQL.</strong>
 </p>
