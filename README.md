@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 If you want to talk, you can send my an email or a message in my Linkedin:
+  💌 If you want to talk, you can send me an email or a message in my Linkedin:
 </p>
 
 <p align="left"> 
