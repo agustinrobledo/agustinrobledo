@@ -3,21 +3,21 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Mi nombre es Fernando Agustin Robledo soy <strong>Full Stack Developer</strong>.
+  👋 My name is Fernando Agustin Robledo, I'm <strong>Full Stack Developer</strong>.
 </p>
   <br><br>
-  Les dejo aca mi <a href="https://agustinrobledo.com"><strong>Portfolio</strong></a>
+ This is my <a href="https://agustinrobledo.com"><strong>Portfolio</strong></a>
 <p align="left">
- ♟ Habilidades: <strong>HTML, CSS, JavaScript, Typescript, Sass, Less, Tailwind CSS, ReactJS, React Native, Next.js, Redux, AJAX, Jquery, Webpack, Node.js, Express.js,
-  Sequelize y PostgreSQL.</strong>
+ ♟ Skills: <strong>HTML, CSS, JavaScript, Typescript, Sass, Less, TailwindCSS, ReactJS, React Native, Next.js, Redux, Vue.js, Nest.js, Node.js, Express.js,
+  Sequelize and PostgreSQL.</strong>
 </p>
 
 <p align="left">
- 🔧 Herramientas: <strong>VSCode, Figma, AdobeXD, Trello, Vercel, Git y GitHub.</strong>
+ 🔧 Tools: <strong>VSCode, Figma, AdobeXD, Trello, Vercel, Git y GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Si quieres trabajar conmigo, enviame un mensaje a mi Linkedin o e-mail:
+  💌 If you want to talk, you can send my an email or a message in my Linkedin:
 </p>
 
 <p align="left"> 
