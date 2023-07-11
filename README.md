@@ -3,7 +3,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  👋 My name is Fernando Agustin Robledo, I'm <strong>Full Stack Developer</strong>.
+  My name is Fernando Agustin Robledo, I'm <strong>Full Stack Developer</strong>.
 </p>
  This is my <a href="https://agustinrobledo.com"><strong>Portfolio</strong></a>
 <p align="left">
